@@ -1,0 +1,5 @@
+
+    [console_scripts]
+    oreoml_train=OreoML.train:cmd
+    oreoml_predict=OreoML.predict:cmd
+    

@@ -1,0 +1,11 @@
+setup.py
+OreoML/__init__.py
+OreoML/predict.py
+OreoML/train.py
+OreoML/utils.py
+OreoML.egg-info/PKG-INFO
+OreoML.egg-info/SOURCES.txt
+OreoML.egg-info/dependency_links.txt
+OreoML.egg-info/entry_points.txt
+OreoML.egg-info/requires.txt
+OreoML.egg-info/top_level.txt

@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: OreoML
+Version: 0.0.3
+Summary: Provide an input CSV and a target field to predict, generate a model.
+Home-page: https://github.com/harishsg99/OreoML
+Author: Harish S.G
+Author-email: harishsg99@gmail.com
+License: MIT
+Description: 
+        Give an input CSV file and a target field you want to predict to OreoML, and get a trained high-performing machine learning.OreoML is an AutoML tool which, offers a *zero code/model definition interface* to getting an high performance machine learning model
+        
+Keywords: deep learning,tensorflow,keras,automl,xgboost
+Platform: UNKNOWN
+Requires-Python: >=3.5
+Description-Content-Type: text/markdown
