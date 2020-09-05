@@ -1,6 +1,6 @@
 # OreoML [![Join the chat at https://gitter.im/Oreoweb/community](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Oreoweb/community) ![test](https://forthebadge.com/images/badges/made-with-python.svg)
 <p align="center">
-    <img src="https://github.com/harishsg99/OreoML/blob/master/OreoML.png?raw=true">
+    <img src="https://github.com/harishsg99/OreoML/blob/master/terminal.gif?raw=true">
 </p>
 
 ## How to Use
