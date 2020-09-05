@@ -5,7 +5,7 @@ import pandas as pd
 import pickle
 import time
 
-from utils import transform_datetime_features
+from .utils import *
 
 TIME_LIMIT = int(os.environ.get('TIME_LIMIT', 5 * 60))
 
