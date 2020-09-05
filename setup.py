@@ -8,7 +8,7 @@ Give an input CSV file and a target field you want to predict to OreoML, and get
 setup(
     name='OreoML',
     packages=['OreoML'],  # this must be the same as the name above
-    version='0.0.3',
+    version='1.0.0',
     description='Provide an input CSV and a target field to predict, ' \
     'generate a model.',
     long_description=long_description,
