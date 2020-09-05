@@ -1,6 +1,0 @@
-pandas
-scikit-learn
-lightgbm
-tqdm
-pickle
-numpy
