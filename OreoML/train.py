@@ -11,7 +11,7 @@ from sklearn.linear_model import LogisticRegression, Ridge
 from lightgbm import LGBMClassifier, LGBMRegressor
 from sklearn.preprocessing import StandardScaler
 
-from utils import transform_datetime_features, ModelsEnsemble
+from .utils import *
 
 # use this to stop the algorithm before time limit exceeds
 TIME_LIMIT = int(os.environ.get('TIME_LIMIT', 5 * 60))
