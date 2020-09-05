@@ -7,6 +7,7 @@
 
 OreoML can be installed [via pip](https://pypi.org/project/OreoML/):
 
+Note : Rename the your target column as target in your dataset to predict or classify using OreoML tool
 ```shell
 pip3 install OreoML
 ```
