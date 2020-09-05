@@ -26,5 +26,5 @@ setup(
     ''',
     python_requires='>=3.5',
     include_package_data=True,
-    install_requires=['pandas', 'scikit-learn', 'lightgbm', 'tqdm', 'pickle', 'numpy']
+    install_requires=['pandas', 'scikit-learn', 'lightgbm', 'tqdm', 'numpy']
 )
