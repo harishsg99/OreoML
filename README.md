@@ -12,12 +12,12 @@ pip3 install OreoML
 ```
 For Training Model
 ```shell
-oreoml_train titanic.csv /tmp/model.pkl regression
+oreoml_train --train-csv titanic.csv --model-dir /tmp/model.pkl --mode regression
 ```
 
 For Prediction Model
 ```shell
-oreoml_train train_titanic.csv test_titanic.csv /tmp/model.pkl
+oreoml_train --train-csv train_titanic.csv --test-csv test_titanic.csv --model-dir /tmp/model.pkl
 ```
 
 
