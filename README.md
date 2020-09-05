@@ -17,7 +17,7 @@ oreoml_train --train-csv titanic.csv --model-dir /tmp/model.pkl --mode regressio
 
 For Prediction Model
 ```shell
-oreoml_train --train-csv train_titanic.csv --test-csv test_titanic.csv --model-dir /tmp/model.pkl
+oreoml_predict --train-csv train_titanic.csv --test-csv test_titanic.csv --model-dir /tmp/model.pkl
 ```
 
 
@@ -31,5 +31,5 @@ automl_train('titanic.csv', '/tmp/model.pkl','regression')
 ```python
 from OreoML import predict
 
-automl_train('train_titanic.csv', 'test_titanic.csv','/tmp/model.pkl')
+automl_predict('train_titanic.csv', 'test_titanic.csv','/tmp/model.pkl')
 ```
